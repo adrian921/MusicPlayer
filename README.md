@@ -1,2 +1,2 @@
 # MusicPlayer
-SE Course project
+Software Engineering Course project
